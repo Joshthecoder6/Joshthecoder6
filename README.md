@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Joshthecoder6
-- 👀 I’m interested in E-Commerce like Shopware, Magento and Shopify
-- 🌱 I’m currently learning PHP with some nice Frameworks
-- ⚡ Fun fact: The earth is a sphere
+- 👋 Hi, I'm @Joshthecoder6
+- 👀 I work on e-commerce projects and tools/apps for Shopify, Shopware, and Magento
+- 🌱 I'm currently learning GO
+- ⚡ Fun fact: The Earth is a sphere
 
 <!---
 Joshthecoder6/Joshthecoder6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
